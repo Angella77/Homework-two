@@ -17,5 +17,10 @@ nav{
     color: white(225, 225, 225);
     text-transform: uppercase;
     letter-spacing: 5px;
+    font-size: 25px;
+}
+.nav-links{
+    display: flex;
+    background-color: blue;
     
 }
