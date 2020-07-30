@@ -1,5 +1,4 @@
 *{
-
     margin: 0px;
     padding: 0px;
     box-sixing: border-box;
@@ -10,5 +9,13 @@ nav{
     justify-content: space-around;
     align-items: center;
     min-height: 8vh;
+    background-color: black
     font-family: 'Poppins', sans-serif;
+}
+
+.logo{
+    color: white(225, 225, 225);
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    
 }
